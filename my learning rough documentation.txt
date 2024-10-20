@@ -1,0 +1,9 @@
+import library
+read_csv
+df.shape to understand size of dataset
+null values dropped
+unnecessary columns dropped
+make values uniform like bhk n bedroom same by using apply()
+check df['total_sqft'].unique()
+make values uniform by converting range values to float
+
